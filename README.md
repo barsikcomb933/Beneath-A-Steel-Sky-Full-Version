@@ -232,3 +232,6 @@ This repository serves as the official landing page for Beneath a Steel Sky. The
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Beneath a Steel Sky today!**
+
+---
+**Last updated:** 2026-09-07 16:57:45 UTC
