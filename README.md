@@ -234,4 +234,4 @@ This repository serves as the official landing page for Beneath a Steel Sky. The
 **Get the most recent version of Beneath a Steel Sky today!**
 
 ---
-**Last updated:** 2026-10-07 08:01:08 UTC
+**Last updated:** 2026-10-07 15:56:29 UTC
